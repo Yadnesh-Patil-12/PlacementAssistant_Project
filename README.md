@@ -110,7 +110,7 @@ GROQ_MODEL=llama-3.3-70b-versatile
 
 ### 6. Run the app
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The app opens at `http://localhost:8501`. The SQLite database
